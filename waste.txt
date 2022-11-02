@@ -1,0 +1,527 @@
+<section>
+        <div class="vaccinationSteps">
+            <h1 class="text-center accessibility-plugin-ac">Get Vaccinated in 3 Easy Steps</h1>
+
+            <div class="col-md-10 offset-md-2">
+                <div class="card-holder">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class=" step-card"><a title="How to Book Your Appointment on Co-WIN"
+                                    aria-label="Dos and dont's for getting vaccinated" target="_blank"
+                                    href="https://prod-cdn.preprod.co-vin.in/assets/pdf/User-Guide-Citizen-registration.pdf"
+                                    class="accessibility-plugin-ac">
+                                    <div class="img-holder"><img src="images/Step_1.svg" alt="step1" class="img-fluid">
+                                    </div>
+                                    <div class="step-content">
+                                        <p class="content accessibility-plugin-ac">Book an
+                                            Appointment on <br> Co-WIN or Walk into any
+                                            Vaccination Center</p>
+                                    </div>
+                                    <p class="step-footer accessibility-plugin-ac">How to
+                                        Book
+                                        Your <br> Appointment on Co-WIN?</p>
+                                </a></div>
+                            <div class="step-box accessibility-plugin-ac"> Step 1 </div>
+                        </div>
+                        <div class="d-flex align-items-center justify-content-center"><span
+                                class="icon icon-chevron-right"></span></div>
+                        <div class="col-md-3">
+                            <div class="  step-card"><a title="Dos And Dont's For Getting Vaccinated"
+                                    aria-label="Dos and dont's for getting vaccinated" target="_blank"
+                                    class="accessibility-plugin-ac"
+                                    href="https://prod-cdn.preprod.co-vin.in/assets/pdf/Dos_and_Donts_for_Citizens.pdf">
+                                    <div class="img-holder"><img src="images/Step_2.svg" alt="step2" class="img-fluid">
+                                    </div>
+                                    <div class="step-content">
+                                        <p class="content accessibility-plugin-ac">Get Your
+                                            Vaccination Safely at the Time of Your Appointment</p>
+                                    </div>
+                                    <p class="step-footer accessibility-plugin-ac">Dos And
+                                        Dont's
+                                        For Getting <br> Vaccinated</p>
+                                </a></div>
+                            <div class="step-box accessibility-plugin-ac"> Step 2 </div>
+                        </div>
+                        <div class="d-flex align-items-center justify-content-center"><span
+                                class="icon icon-chevron-right"></span></div>
+                        <div class="col-md-3">
+                            <div class=" step-card">
+                                <div class="step-box accessibility-plugin-ac"> Step 3 </div>
+                                <a title="Download Your Vaccine Certificate" target="_blank"
+                                    aria-label="Download your vaccine certificate" class="accessibility-plugin-ac"
+                                    href="https://selfregistration.cowin.gov.in">
+                                    <div class="img-holder"><img src="images/Step_3.svg" alt="step3" class="img-fluid">
+                                    </div>
+                                    <div class="step-content">
+                                        <p class="content accessibility-plugin-ac">Download
+                                            Your
+                                            Vaccination Certificate from Co-WIN and Wait </p>
+                                    </div>
+                                    <p class="step-footer accessibility-plugin-ac">Download
+                                        Your
+                                        Vaccine <br> Certificate </p>
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    @media  only screen and (max-width:412px){
+   .flex-column{
+     padding: 0;
+     align-items: left;
+  }
+  .flex-column .img{
+     
+     width: 130px;
+     height: 50px;
+     margin-left: 0;
+  }
+  /* .flex-column nav{
+     flex-direction: column;
+     width: 100%;
+     height: 100vh;
+     justify-content: center;
+     display: block;
+
+  } */
+  .flex-column button{
+    padding: 5px 15px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .flex-column .my-2{
+    margin-left: 60px;
+  }
+  .flex-column .my-2 a{
+    padding-left: 10px;
+  }
+  .row{
+
+      display: block;
+  }
+.navbar .navbar-brand{
+ margin-left: 210px;
+}
+.navbar{
+padding: 0;
+}
+.navbar .navbar-na{
+ padding: 0;
+ margin: 0;
+}
+.navbar .navbar-na .nav-link{
+ padding: 0;
+}
+.navbar .navbar-na li .nav-link{
+ margin-left: 90px;
+}
+.precautionDoseBanner1 .banner-image-wrap img{
+   width: 400px;
+   height: 250px;
+   margin-bottom: 10px;
+}
+.precautionDoseBanner1 .banner-counter-content .milestone200{
+   margin-right: 100px;
+}
+
+.home2 .row .VACCINATION{
+flex-direction: column;
+      margin-left: 50px;
+      justify-content: center;
+}
+.home2 .row .VACCINATION h3{
+ margin-left: 0px;
+ text-align: center;
+}
+.home2 .row .VACCINATION a .btn{
+ margin-left: 0;
+ text-align: center;
+ margin-left: 200px;
+
+}
+.home2 .row .VACCINATION .text2{
+ margin-left: 0;
+
+    text-align: center;
+}
+
+.vaccinationSteps .card-holder .step-card{
+ margin-left: 130px;
+}
+.freePrecautionEvent img{
+ margin-right: 140px;
+ margin-bottom: 0;
+ margin-top: 0;
+ width: 400px;
+ height: 250px;
+}
+.freePrecautionEvent .text- {
+ padding-top: 0;
+}
+
+.search-location .row .search h3{
+ font-size: medium;
+}
+.freePrecautionEvent1 .row .freePrecautionEvent {
+ flex-direction: column;
+}
+.freePrecautionEvent1 .row .freePrecautionEvent img{
+width: 200px;
+height: 200px;
+}
+.freePrecautionEvent1 .row .freePrecautionEvent button{
+ padding: 2px;
+ font-size: 1vmin;
+}
+.freePrecautionEvent3{
+ padding: 0;
+}
+.freePrecaution .text- {
+ padding-top: 0;
+}
+.freePrecaution p,
+.freePrecaution h3,
+.freePrecaution .btn{
+ margin-left: 160px;
+}
+.freePrecautionEvent3 .row .freePrecaution{
+ flex-direction: column;
+}
+.freePrecautionEvent3 .row .freePrecaution img{
+ width: 350px;
+ height: 250px;
+ align-items: center;
+ margin-left: 200px;
+ margin-top: 0;
+ margin-bottom: 0;
+}
+.corbevax_vaccine{
+ flex-direction: column-reverse;
+}
+.corbevax_vaccine img{
+ margin: 0 50px 0 150px;
+ width: 400px;
+ height: 250px;
+}
+.corbevax_vaccine .text-{
+ padding-top: 0;
+}
+.freePrecautionEvent2 .row .freePrecaution1{
+ flex-direction: column;
+}
+.freePrecautionEvent2 .row .freePrecaution1 img{
+ width: 400px;
+ height: 250px;
+ margin-left: 150px;
+}
+.freePrecaution1 .text- {
+ padding-top: 0;
+}
+.freePrecaution1 h3,
+.freePrecaution1 p,
+.freePrecaution1 .btn{
+ margin-left: 150px;
+}
+.sharevaccinationsection h1{
+margin-bottom: 0;
+}
+.abha .b-ox a{
+ width: 500px;
+ margin-bottom: 10px;
+}
+.vaccinationdrive .image-button .row img {
+ width: 405px;
+ height: 400px;
+ margin-top: 50px;
+ margin-left: 190px;
+}
+.vaccinationdrive .image-button .row .btn{
+ margin-left: 250px;
+ margin-bottom: 0;
+}
+.our-partner-new img {
+ max-width: 50%;
+ height: auto;
+ margin-left: 15px;
+}
+.our-partner-new .partner-card{
+margin-top: 15px;
+margin-left: 20px;
+}
+.our-partner-new .coner{
+display: flex;
+margin-right: 200px;
+}
+.raiseanissueSection .container .carousel-inner{
+ flex-direction: column;
+
+}
+.raiseanissueSection .container .carousel-inner .item{
+ margin-top: 10px;
+}
+/* .footerContainer .bottomFooter .bottomFooterLinks1{
+ margin-top: 0;
+ right: 40;
+ margin-left: 50px;
+} */
+.footerContainer .bottomFooter p{
+ text-align: center;
+}
+.footerContainer .bottomFooter .bottomFooterCol a{
+ margin-left: 150px;
+}
+}
+
+<div class="   d-flex flex-column flex-md-row   px-md-4   border-bottom box-shadow">
+            <img src="images/new-logo.svg" class="   align-top" alt>
+            <h5 class="my-0 mr-md-auto font-weight-normal"></h5>
+            <nav class="my-2 my-md-0 mr-md-3">
+                <div style="margin-right:50px ;">
+                    <a class="p-lg-3 text-light" href="#">ABHA
+                        (Health ID)</a>
+                    <a class="p-lg-5 text-light " href="#">DASHBOARD</a>
+                    <a class="p-lg-5 text-light " href="#">VERIFY CERTIFICATE</a>
+                    <a class="p-lg-5 text-light " href="#">FAQ</a>
+                    <a class="p-lg-5 text-light " href="#">
+                        PARTNERS</a>
+                </div>
+            </nav>
+            <button type="button" class="btn btn-outline-primary ">REGISTER/SIGN IN</button>
+        </div>
+        .flex-column {
+    background: #017e7e !important;
+    align-items:center;
+}
+.flex-column img{
+    margin-left: 40px;
+    width:130px;
+     height:100px;
+}
+.flex-column nav {
+    font-size: 2vmin;
+    font-weight: 500;
+}
+
+.flex-column button {
+    border-color: #fff;
+    color: #fff;
+    font-weight: 500;
+    font-size: 2vmin;
+    border-radius: 35px;
+    border-width: 3px;
+    margin-right: 60px;
+    padding: 15px 25px;
+}
+.flex-column button:hover{
+    background-color: #076c76;
+    border-color: #fff;
+}
+/* hdisdidiu
+.faqSection {
+    background-color: #fff;
+    padding: 45px 0;
+}
+
+.faqSectionNew h3.faq-heading {
+    font-size: 32px;
+    color: #007c7c;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 30px !important;
+}
+.faqSectionNew .button-and-image{
+    margin-right: 200px;
+}
+ 
+
+.faqSectionNew .mat-tab-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.faqSectionNew .mat-tab-header-pagination-controls-enabled .mat-tab-header-pagination {
+    display: flex;
+}
+
+.faqTabsNew .mat-elevation-z4 {
+    box-shadow: none !important;
+}
+
+.faqSectionNew .mat-ripple:not(:empty) {
+    transform: translateZ(0);
+}
+
+.faqTabsNew .mat-tab-label .mat-tab-label-content {
+    padding: 8px 15px;
+    color: #007c7c;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.faqTabsNew .mat-tab-label {
+    padding: 0 10px;
+    opacity: 1;
+    min-width: auto;
+}
+
+.faqTabsNew .mat-ripple:not(:empty) {
+    transform: translateZ(0);
+}
+
+.faqTabsNew .mat-tab-label {
+    height: 48px;
+    padding: 0 24px;
+    cursor: pointer;
+    box-sizing: border-box;
+    opacity: .6;
+    min-width: 160px;
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    position: relative;
+}
+
+.faqTabsNew .mat-tab-label {
+    height: 48px;
+    padding: 0 24px;
+    cursor: pointer;
+    box-sizing: border-box;
+    opacity: .6;
+    min-width: 160px;
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    position: relative;
+}
+
+.faqTabsNew .mat-tab-label,
+.mat-tab-link {
+    color: rgba(0, 0, 0, .87);
+}
+
+.faqTabsNew .mat-focus-indicator,
+.mat-mdc-focus-indicator {
+    position: relative;
+}
+
+.faqSectionNew .mat-ripple {
+    overflow: hidden;
+    position: relative;
+}
+
+.faqSectionNew .mat-tab-label,
+.mat-tab-link {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.faqSectionNew .mat-tab-group,
+.mat-tab-label,
+.mat-tab-link {
+    font-family: Roboto, Helvetica Neue, sans-serif;
+}
+
+.faqSectionNew a.howToDownload {
+    border: 2px solid #007c7c;
+    border-radius: 50px;
+    padding: .75rem 2.95rem;
+    min-width: 150px;
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: #007c7c;
+}
+
+.faqSectionNew .mat-tab-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.faqTabsNew .mat-accordion ol {
+    overflow: hidden;
+    background: #f6f6f6 0 0 no-repeat padding-box;
+    border-radius: 10px;
+    margin-bottom: 0;
+}
+
+.faqSectionNew dl,
+ol,
+ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+} */
+
+/* nsckjasnkjcnjsnc */
+/* .whatsNewonCowin {
+    padding: 45px 0;
+    background: #edffff;
+}
+
+.whatsNewonCowin div h2 {
+    font-size: 32px;
+    color: #007c7c;
+    line-height: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px !important;
+}
+
+.whatsNewonCowin .mat-expansion-panel .mat-expansion-panel-header.mat-expanded {
+    border-bottom: 0 solid #009d9d;
+}
+
+.whatsNewonCowin .mat-expansion-panel .mat-expansion-panel-header {
+    padding: 0;
+    min-height: 120px;
+    background-color: #f5f6f5;
+    font-weight: 500;
+}
+
+.whatsNewonCowin .mat-expansion-panel .mat-expansion-panel-header .mat-expansion-panel-header-title .numbering .list_no {
+    position: absolute;
+    color: #fff;
+    top: 30px;
+    left: 15px;
+    font-size: 30px;
+}
+.whatsNewonCowin .mat-expansion-panel .mat-expansion-panel-header .mat-expansion-panel-header-title .header_content {
+    padding: 0 10px;
+    overflow: auto;
+    height: 85px;
+    margin: 15px 5px auto auto;
+} */
+ /* .whatsNewonCowin .mat-expansion-panel .mat-expansion-panel-body {
+    padding: 0 24px 25px 10px;
+    padding-left: 70px!important;
+    color: #555;
+    background-color: #f5f6f5;
+} */
+/* .whatsNewonCowin .mat-expansion-panel .mat-expansion-panel-header .mat-expansion-panel-header-title {
+    color: #007c7c;
+    font-size: 16px;
+    line-height: 26px;
+    margin-right: 0;
+    position: absolute;
+    top: 0;
+}  */
+/* .whatsNewonCowin .mat-expansion-panel-header-title, .mat-expansion-panel-header-description {
+    display: flex;
+    flex-grow: 1;
+    margin-right: 16px;
+}
+.whatsNewonCowin .mat-expansion-panel-header-title {
+    color: rgba(0,0,0,.87);
+} */
+/* laskbfkaskfkasbfksamd */

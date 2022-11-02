@@ -1,0 +1,1052 @@
+
+
+*{
+  margin: 0; 
+  padding: 0; 
+}
+/*  first navbar */
+.mainHeader  {
+    background-color: #045d5d;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    position: relative;
+    z-index: 10;
+    padding: 10px 0;
+}
+.logo1  {
+    float: left;
+    height: auto;
+    width: 20px;
+    margin-top: 4px;
+    margin-right: 8px;
+}
+.govindia , .govindia  a  {
+    color: #fff;
+    font-size: 2vmin;
+}
+.mainTitle  a  {
+    text-decoration: none;
+}
+.matSelectUL  .app-lang , .matSelectUL  ul  {
+    display: inline-block;
+}
+.mainHeader   ul.access-navigation  li.fontsBtn  {
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+.mainHeader   ul.access-navigation  li  {
+    list-style: none;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3px;
+}
+.mainHeader   ul  {
+    margin-top: 50px;
+    padding-right: 30px;
+    width: 50%;
+}
+.mainHeader  ul.access-navigation  li.fontsBtn  button  {
+    background: transparent;
+    border: 0;
+    color: #fff;
+    text-decoration: none;
+    width: 40px;
+    height: 29px;
+    text-align: center;
+    border: 1px solid hsla(0,0%,100%,.5);
+    line-height: 22px;
+    font-size: 1.6vmin;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+}
+.headermatSelect .labelClass {
+    color: #fff!important;
+    text-transform: uppercase;
+}
+.mat-form-field-appearance-legacy .mat-form-field-infix {
+    padding: .4375em 0;
+}
+.mat-form-field-infix {
+    display: block;
+    position: relative;
+    flex: auto;
+    min-width: 0;
+    width: 180px;
+}
+.mat-form-field-infix {
+    padding: .5em 0;
+    border-top: .84375em solid transparent;
+}
+ 
+/* second navbar */
+.midCenterCol  {
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.midCenterCol  {
+    position: relative;
+    width: 100%;
+    z-index: 10;
+    background: #017e7e!important;
+}
+.midCenterCol  .leftPart  .navbar  {
+    padding: 5px 0!important;
+}
+
+.midCenterCol  .leftPart  .navbar  {
+    padding: 20px 0!important;
+}
+.midCenterCol  .menunavigation  ul  {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0;
+    display: flex;
+    align-items: center;
+}
+.midCenterCol .openMenu{
+    font-size: 3vmin;
+margin: 20px;
+    display: none;
+    cursor: pointer;
+    color: #fff;
+}
+.midCenterCol  .menunavigation  ul .closeMenu{
+    display: none;
+    cursor: pointer;
+    font-size: 2rem;
+    color: #fff;
+}
+.midCenterCol  .menunavigation  ul  li  a  {
+    color: #002060;
+    font-size: 1.3vmin;
+}
+ 
+.midCenterCol .menunavigation  ul  li  a  {
+    font-weight: 500!important;
+}
+ 
+.midCenterCol .menunavigation  ul  li  a  {
+    font-weight: 400;
+}
+ 
+.midCenterCol .menunavigation  li  a  {
+    font-weight: 700;
+}
+.midCenterCol ul.menuItemCenter  {
+     position: relative; 
+}
+ 
+.midCenterCol .newMenu  {
+    background: none;
+    border: none;
+    color: #fff!important;
+    font-size: 1.4vmin;
+    cursor: pointer;
+    display: flex;
+    letter-spacing: 1px;
+    padding: 0 20px;
+    text-decoration: none;
+}
+
+ 
+.midCenterCol .dropdwnbtn  {
+    background: none;
+    border: none;
+    font-size: 1.3vmin;
+    cursor: pointer;
+    display: flex;
+    padding: 0 15px;
+}
+.midCenterCol.midCenterCol  .menunavigation  ul  li :last-child {
+    border-right: none;
+    margin-left: 20px;
+}
+ 
+.midCenterCol.midCenterCol  .menunavigation  ul  li :last-child {
+    margin-right: 0;
+}
+ 
+.midCenterCol .midCenterCol  .menunavigation  ul  li  {
+    text-transform: uppercase;
+}
+ 
+.midCenterCol .midCenterCol  .menunavigation  ul  li  {
+    font-weight: 400;
+    display: inline-block;
+    align-items: center;
+    margin: 0 5px 0 0;
+    vertical-align: middle;
+}
+ 
+.midCenterCol .midCenterCol  .menunavigation  ul  li  {
+    display: flex;
+    margin: 0 15px 0 0;
+}
+.yellowloginbtn  {
+    border: 2px solid #fff;
+    color: #fff!important;
+    padding: 9px 25px!important;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: 500!important;
+    line-height: 1.5!important;
+    text-align: center;
+    display: block;
+    font-size: 1.6vmin;
+}
+.midCenterCol  .navbar  .noDesktop  {
+    display: none;
+}
+.midCenterCol  .logoArea  {
+    line-height: 0;
+    position: relative;
+    top: 0;
+}
+.midCenterCol .clearfix {
+    clear: both;
+}
+.midCenterCol .floating-menu  {
+    padding: 0;
+}
+.midCenterCol .midCenterCol  .menunavigation  {
+    width: 100%;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+.midCenterCol .navbar .noDesktop {
+    display: none;
+}
+.midCenterCol .navbar .tabOnly {
+    display: none;
+}
+
+/* home section */
+.home {
+    background-image: url(images/precaution_banner_bg_web.c656a76b28237d8fb924.png);
+    background-size:100%;
+    background-size: cover;
+    display:block;
+}
+
+.precautionDoseBanner1 .banner-counter-content h3 {
+    font-size: 4vmin;
+    font-weight: 700;
+    margin-bottom: 40px;
+    line-height: 53px;
+    color: #000;
+
+}
+.precautionDoseBanner1 .banner-image-wrap .img-fluid{
+       
+       height: 500px;
+}
+.precautionDoseBanner1 .banner-counter-content .milestone200 {
+    border: 3px solid #fd5428;
+    border-width: 4px;
+    border-radius: 8px;
+    display: inline-flex;
+    align-items: center;
+    margin: 15px 0 45px;
+     padding: 20px  40px; 
+    text-transform: uppercase;
+}
+
+.precautionDoseBanner1 .banner-counter-content .milestone200 h3 {
+    color: #fd5428;
+    margin-bottom: 30px;
+    font-size: 3.5vmin;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.precautionDoseBanner1 .banner-counter-content {
+    margin-left: 110px;
+    margin-top: 100px;
+}
+
+.precautionDoseBanner1 .banner-counter-content h4 {
+    color: #000;
+    font-size: 3vmin;
+    font-weight: 600;
+    margin-bottom: 30px;
+    line-height: 30px;
+}
+
+.precautionDoseBanner1 .banner-counter-content p {
+    color: #000;
+    font-size: 2.5vmin;
+    font-weight: 400;
+    margin-bottom: 35px;
+    line-height: 30px;
+}
+
+.precautionDoseBanner1  .banner-image-wrap  img  {
+
+    margin: 20px auto 0 10px;
+}
+
+/* .precautionDoseBanner1 .banner-counter-content .btn {
+    border-color:#0c6161 ;
+    color: rgb(20, 16, 16);
+    font-weight: 500;
+    font-size: 2vmin;
+    background-color: #fff;
+    border-radius: 35px;
+    border-width: 3px;
+    margin-bottom: 50px;
+} */
+.floating-menu  .dropbtn  {
+    background-image: linear-gradient(90deg,#017e7e 80%,#0c6161);
+    color: #fff;
+    padding: 10px 0 10px 10px;
+    font-size: 1.6vmin;
+    border: none;
+    cursor: pointer;
+    min-width: 130px;
+    height: 55px;
+    box-shadow: 0 10px 10px -10px #333;
+    border-top-left-radius: 38px;
+    border-bottom-left-radius: 38px;
+    position: relative;
+    z-index: 2;
+}
+
+/* home2 section */
+ 
+.vaccination_stats {
+    background: #007c7c;
+    background: linear-gradient(120deg,#007c7c 50%,#04c4c4 0);
+}
+.vaccination_stats  .total_vaccinations  .chart  .h-75 , .vaccination_stats  .vaccinations_today  .chart  .h-75  {
+    margin-top: 10px!important;
+}
+element.style {
+    display: block;
+    height: 107px;
+    width: 214px;
+}
+.h-75 {
+    height: 75%!important;
+}
+.w-75 {
+    width: 75%!important;
+}
+.chartjs-render-monitor {
+    animation: chartjs-render-animation 0.001s;
+}
+.chartjs-render-monitor {
+    width: 100%!important;
+}
+.h-75 {
+    height: 75%!important;
+}
+.w-75 {
+    width: 75%!important;
+}
+.vaccination_stats  .total_vaccinations  .chart , .vaccination_stats  .vaccinations_today  .chart  {
+    width: 45%;
+    height: 85px!important;
+}
+.vaccination_stats  .total_vaccinations  h3 , .vaccination_stats  .total_vaccinations  p  {
+    color: #fff;
+     
+}
+.vaccination_stats  .total_vaccinations  p , .vaccination_stats  .vaccinations_today  p  {
+    font-size: 1.6vmin;
+    font-weight: 500;
+    margin: 0;
+}
+.vaccination_stats  a.btn.viewMore_btn  {
+    background: #fcbf02;
+    border-radius: 25px;
+    padding: .55rem 2.55rem;
+    color: #4d3b03;
+    font-weight: 700;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-size: 1.3vmin;
+    border: 2px solid #fff;
+}
+.vaccination_stats  .vaccinations_today  h3 , .vaccination_stats  .vaccinations_today  p  {
+    color: #282828;
+ 
+    
+}
+.vaccination_stats  .total_vaccinations  {
+    text-align: right;
+}
+ 
+.vaccination_stats  .total_vaccinations , .vaccination_stats  .vaccinations_today  {
+    display: flex;
+    align-items: center;
+}
+/* card styles */
+.vaccinationSteps  {
+    padding: 45px;
+    background-color: #edffff;
+}
+.vaccinationSteps  h1  {
+    font-weight: 700;
+    font-size: 3.2vmin;
+    color: #007c7c;
+    margin-bottom: 30px!important;
+}
+.vaccinationSteps  .card-holder  .step-card  .img-holder  {
+    padding: 50px 35px 0;
+}
+.vaccinationSteps   .card-holder   .step-card   img   {
+    width: 200px;
+    height: 85px;
+}
+.vaccinationSteps  .card-holder  .step-card  {
+    background-color: #fff;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    box-shadow: 0 10px 30px #b5d8e2;
+}
+.vaccinationSteps  .card-holder  .step-card  .step-content  {
+    background-color: #007c7c;
+    
+}
+.vaccinationSteps  .card-holder  .step-card  .step-content  .content  {
+    padding: 30px 25px;
+    font-size: 1.4vmin;
+    line-height: 28px;
+    font-weight: 400;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 0;
+}
+.vaccinationSteps  .card-holder  .step-card  .step-footer  {
+    color: #2f4b6e;
+    font-size: 1.2vmin;
+    padding: 10px 45px 20px;
+    text-decoration: none;
+}
+.vaccinationSteps  .step-box  {
+    font-size: 1.4vmin;
+    color: #007c7c;
+    border: 1px solid #007c7c;
+    padding: 5px 20px;
+    border-radius: 10px;
+    top: -16px;
+    position: absolute;
+    font-weight: 700;
+    background-color: #fff;
+    margin: auto;
+    display: block;
+    width: 85px;
+    text-align: center;
+    left: 0!important;
+    right: 0;
+}
+ 
+
+
+ 
+
+/* Search style */
+.search-location {
+    padding: 45px 0;
+    background-color: #fff;
+}
+
+.search-location .search h1 {
+    font-size: 3.2vmin;
+    color: #007c7c;
+    line-height: 40px;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+
+}
+
+.search-location .search h3 {
+    font-size: 2.5vmin;
+    font-weight: 400;
+    color: #5a5a75;
+    margin-bottom: 15px;
+}
+ 
+
+.search-location .location button {
+    margin-bottom: 30px;
+}
+
+.search-location .search {
+    text-align: center;
+}
+
+.search-location .location {
+    justify-content: center;
+
+}
+.search-location .on hr{
+    margin-left: 500px;
+    margin-right: 500px;
+    color: #000;
+}
+
+.search-location .location h1 {
+    font-size: 4vmin;
+}
+
+/* content style */
+.freePrecautionEvent {
+    padding: 45px 0;
+    background-color: #fff;
+}
+.freePrecautionEvent  h3  {
+    color: #007c7c;
+    font-weight: 700;
+    font-size: 3.2vmin;
+    letter-spacing: .1px;
+    line-height: 1.3;
+}
+.freePrecautionEvent  p  {
+    font-size: 1.6vmin;
+    color: #0e1229;
+    font-weight: 400;
+    line-height: 1.5;
+    opacity: .7;
+    letter-spacing: .5px;
+    max-width: 70%;
+}
+.freePrecautionEvent  a.book_slot_btn  {
+    background: #007c7c;
+    border-radius: 25px;
+    padding: .75rem 2.95rem;
+    color: #fff;
+    font-size: 1.6vmin;
+    display: block;
+    width: -moz-fit-content;
+    width: fit-content;
+    text-decoration: none;
+}
+.freePrecautionEvent  .precautionevnet_Img  {
+    width: 75%;
+}
+
+ 
+
+  
+ 
+.corbevax_vaccine  {
+    padding: 45px 0;
+    background-color: #fff;
+}
+.corbevax_vaccine  h3  {
+    color: #007c7c;
+    font-weight: 700;
+    font-size: 3.1vmin;
+    letter-spacing: .1px;
+    line-height: 1.3;
+}
+.corbevax_vaccine  ul  {
+    padding-left: 5px;
+}
+.corbevax_vaccine  ul  li  {
+    list-style: none;
+    position: relative;
+    padding-left: 19px;
+}
+.corbevax_vaccine  ul  li :before {
+    position: absolute;
+    content: "";
+    width: 8px;
+    height: 8px;
+    background-color: #27c6c6;
+    border-radius: 50%;
+    left: 0;
+    top: 6px;
+}
+.corbevax_vaccine  p  {
+    font-size: 1.6vmin;
+    color: #0e1229;
+    font-weight: 400;
+    line-height: 1.5;
+    opacity: .7;
+    letter-spacing: .5px;
+}
+.corbevax_vaccine  a.book_slot_btn  {
+    background: #007c7c;
+    border-radius: 25px;
+    padding: .75rem 2.95rem;
+    color: #fff;
+    font-size: 1.6vmin;
+    display: block;
+    width: -moz-fit-content;
+    width: fit-content;
+    text-decoration: none;
+}
+ /* jbjbjhhihih */
+.vaccinationDateCorrection  {
+    padding: 45px 0;
+    background-color: #edffff;
+}
+.vaccinationDateCorrection  h3  {
+    color: #007c7c;
+    font-weight: 700;
+    font-size: 3.2vmin;
+    letter-spacing: .1px;
+    line-height: 1.3;
+}
+.vaccinationDateCorrection  p  {
+    font-size: 1.6vmin;
+    color: #0e1229;
+    font-weight: 400;
+    line-height: 1.5;
+    opacity: .7;
+    letter-spacing: .5px;
+}
+.vaccinationDateCorrection  a.book_slot_btn  {
+    background: #007c7c;
+    border-radius: 25px;
+    padding: .75rem 2.95rem;
+    color: #fff;
+    font-size: 1.6vmin;
+    display: block;
+    width: -moz-fit-content;
+    width: fit-content;
+    text-decoration: none;
+}
+ 
+
+/* yguygug */
+.sharevaccinationsection.childrensSection  {
+    background-color: #fff;
+}
+.sharevaccinationsection  {
+    padding: 45px 0;
+    background-color: #edffff;
+}
+.sharevaccinationsection  h1  {
+    font-size: 3.2vmin;
+    color: #007c7c;
+    line-height: 40px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    letter-spacing: .1px;
+}
+.sharevaccinationsection  p  {
+    font-size: 1.6vmin;
+    color: #0e1229;
+    font-weight: 400;
+    line-height: 1.5;
+    opacity: .7;
+    letter-spacing: .5px;
+}
+.abha  a  {
+    background: #fff;
+    box-shadow: 2px 2px 10px rgb(0 0 0 / 25%);
+    padding: 10px;
+    display: block;
+    border-radius: 8px;
+}
+.abha  a  img  {
+    margin-top: 15px;
+}
+.sharevaccinationsection  .knowstatus_btn  {
+    border: 2px solid #007c7c;
+    border-radius: 50px;
+    padding: .75rem 2.95rem;
+    display: inline-block;
+    text-align: center;
+    font-size: 1.6vmin;
+    font-weight: 400;
+    text-decoration: none;
+    background: #007c7c;
+    color: #fff;
+    box-shadow: 0 5px 9px rgb(0 0 0 / 16%);
+}
+/* hiuhfewhif */
+.raiseanissueSection {
+    background-color: #007c7c;
+    padding: 45px 0 50px;
+}
+.raiseanissueSection  h2  {
+    color: #fff;
+    font-size: 32px;
+}
+.raiseanissueSection  p.my-4  {
+    color: #fff;
+}
+.carouselRaiseanIssue carousel slide.carousel-item .item, .carouselRaiseanIssue carousel slide.carousel-item .item .raiseanissueCard {
+    height: 100%!important;
+}
+.raiseanissueSection  .raiseanissueCard  {
+    width: 90%;
+    text-align: center;
+    background: #fff 0 0 no-repeat padding-box;
+    box-shadow: 0 8px 25px rgb(64 48 107 / 25%);
+    border-radius: 10px;
+    padding: 20px 15px;
+    margin: 0 auto;
+}
+.carouselRaiseanIssue carousel slide.carousel-item .item, .carouselRaiseanIssue carousel slide.carousel-item .item .raiseanissueCard {
+    height: 100%!important;
+}
+.raiseanissueSection  .raiseanissueCard  a  {
+    min-height: 40px;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: #007c7c;
+    font-size: 1.5vmin;
+    display: block;
+}
+.raiseanissueSection  .raiseanissueCard  p  {
+    letter-spacing: 0;
+    color: #282828;
+    font-weight: 500;
+    font-size: 1.3vmin;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: transparent no-repeat center center;
+    background-size: 100% 100%;
+}
+.carouselRaiseanIssue .carousel-control-prev-icon {
+    background-image: url(Left.0cbb4da….svg);
+    width: 30px;
+    height: 30px;
+}
+.carousel-control-prev-icon {
+    background-image: url(data:images/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E);
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: transparent no-repeat center center;
+    background-size: 100% 100%;
+}
+.carousel-control-prev-icon {
+    background-image: url(data:images/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E);
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: transparent no-repeat 50%;
+    background-size: 100% 100%;
+}
+ 
+
+
+/* laskbfkaskfkasbfksamd */
+.vaccinationdrive {
+    padding: 50px 0;
+    background-color: #fff;
+}
+ 
+.vaccinationdrive .center h1 {
+    font-size: 4vmin;
+    color: #007c7c;
+    line-height: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px!important;
+    text-align: center;
+}
+.vaccinationdrive .image-button{
+    margin-top: 70px;
+}
+.vaccinationdrive .image-button .vaccinetext{
+    margin-left: 200px;
+}
+ 
+.vaccinationdrive .image-button .vaccinetext p {
+    color: #02aeae;
+    font-weight: 500;
+    font-size: 2vmin;
+    margin-bottom: 10px;
+    
+}
+.vaccinationdrive .image-button .row img{
+    
+    height: 400px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.vaccinationDrive .div{
+    
+}
+.vaccinationdrive .image-button .vaccinetext h2{
+    font-size: 3vmin;
+    color: #fff;
+    font-weight: 600;
+    background: #007c7c;
+    border-radius: 5px;
+    padding: 12px 40px;
+    width:100%;
+}
+.vaccinationdrive .image-button .row .btn {
+    border-color: #007c7c;
+    background-color: #fff;
+    color: #007c7c;
+    font-weight: 500;
+    font-size: 2.5vmin;
+    border-radius: 40px;
+    border-width: 3px;
+    margin-bottom: 50px;
+margin-left: 0px;
+padding: 10px 25px;
+
+}
+/* skjbdkjajkdjsbj */
+.our-partner-new {
+    background-color: #edffff;
+    padding: 45px 0 30px;
+}
+.our-partner-new  h1  {
+    color: #007c7c;
+    font-size: 4vmin;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.our-partner-new  .partner-side-img {
+    max-height: 400px;
+    
+}
+.our-partner-new  .partner-logo-holder{
+    margin-left: 150px;
+}
+.our-partner-new  .partner-card  {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 16%);
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    max-height: 90px;
+    min-height: 90px;
+
+}
+.our-partner-new  .partner-logo-holder  .ourPtrBtn  {
+    margin-top: 60px;
+    text-align: center;
+}
+.ourPtrBtn  a :first-child {
+    margin-right: 30px;
+}
+.our-partner-new  .viewMore  {
+    border: 2px solid #007c7c;
+    background-color: #007c7c;
+    border-radius: 50px;
+    padding: .75rem 3.95rem;
+    color: #fff;
+    font-size: 2.5vmin;
+    font-weight: 400;
+    text-decoration: none;
+}
+.our-partner-new  .btn  {
+    border: 2px solid #007c7c;
+    background-color: initial;
+    border-radius: 50px;
+    padding: .75rem 1.8rem;
+    color: #007c7c;
+    font-size: 2.2vmin;
+    font-weight: 500;
+    text-decoration: none;
+}
+/* .our-partner-new h1 {
+    color: #007c7c;
+    font-size: 4.5vmin;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.our-partner-new  .img-fluid.partner-side-img  {
+    max-height: 250px;
+}
+.our-partner-new  .partner-card  {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 16%);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    max-height: 100px;
+    min-height: 63px;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+.our-partner-new .partner-logo-holder {
+    margin-left: 100px;
+}
+.our-partner-new  .partner-card img{
+    width: 200px;
+    height: 50px;
+}
+.our-partner-new .p-4{
+    margin-left:200px ;
+
+}
+.our-partner-new .container-fluid {
+    margin-top: 50px;
+}
+ 
+.our-partner-new  .ourPtrBtn{
+margin-left: 900px;
+   
+
+}
+.our-partner-new .btn {
+    border-color: #007c7c;
+    background-color: #fff;
+    color: #007c7c;
+    font-weight: 500;
+    font-size: 2.5vmin;
+    border-radius: 40px;
+    border-width: 3px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+
+}
+.our-partner-new .butten {
+    border-color: #007c7c;
+    background-color: #007c7c;
+    color: #fff;
+    font-weight: 500;
+    font-size: 2.5vmin;
+    border-radius: 40px;
+    border-width: 3px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+
+} */
+/* jsbfkjsdbkfbdskb */
+.footerContainer {
+    background: #007c7c;
+    color: #fff;
+    position: relative;
+     
+    text-decoration:none ;
+
+}
+
+ 
+.footerContainer .vaccinationServices h4 {
+    text-align: left;
+    font-size: 2.2vmin;
+    font-weight: 600;
+    color: #99d9d9;
+    text-transform: uppercase;
+    margin-bottom: 22px;
+    margin-left: 20px;
+}
+.mat-h4, .mat-subheading-1, .mat-typography h4 {
+    font: 400 15px/24px Roboto,Helvetica Neue,sans-serif;
+    letter-spacing: normal;
+    margin: 0 0 16px;
+}
+.footerContainer  .vaccinationServices  h4  {
+    content: "";
+    display: block;
+    border-bottom: 5px solid #99d9d9;
+    width: 22px;
+    position: relative;
+    bottom: -4px;
+    text-decoration: none;
+}
+.footerContainer  .vaccinationServices  ul{
+    list-style-type: none;
+}
+.footerContainer  .vaccinationServices  ul  li  a  {
+    color: #fff;
+    font-size: 2vmin;
+    font-weight: 400;
+    text-decoration: none;
+    margin-left: 10px;
+
+}
+.helplineContacts  ul  li h4{
+    font-size: 2.5vmin;
+}
+.helplineContacts  ul  li  a  {
+    color: #fff;
+    font-size: 2vmin;
+    font-weight: 400;
+    text-decoration: none;
+}
+.helplineContacts  ul  {
+    border: solid #015158;
+    border-width: 1px 0 0;
+    list-style-type: none;
+    text-align: left;
+    padding: 15px 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.footerContainer  .contactusCol  .helpline  p  a  {
+    color: #fff;
+    font-weight: 400;
+    font-size: 2vmin;
+    text-decoration: none;
+}
+.footerContainer  .contactusCol  .helpline  p  {
+    font-size: 2vmin;
+    font-weight: 400;
+    text-decoration: none;
+}
+.footerContainer  .footerLogos  li  {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 15px;
+}
+.footerContainer  .miniFooter  {
+    background-color: #015158;
+    padding: 5px 0;
+    margin-top: 25px;
+}
+.footerContainer  .footerLogos  li  img  {
+    height: 60px;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+.footerContainer  .bottomFooter  p  {
+    margin: 0;
+    font-weight: 400;
+    font-size: 2vmin;
+    margin-top: 30px;
+}
+.footerContainer  .bottomFooter  a  {
+    color: #fff;
+    font-weight: 400;
+    font-size: 2vmin;
+    white-space: nowrap;
+    margin-top: 30px;
+
+}
+.footerContainer  .bottomFooter .bottomFooterLinks2{
+    margin-top: 30px;
+}
+.footerContainer  .bottomFooter  .bottomFooterLinks1 {
+    content: "";
+    display: inline-block;
+    border-bottom-color: #007c7c;
+    border-right-width: 1px;
+    border-right-style: solid;
+    height: 20px;
+    position: relative;
+    vertical-align: middle;
+    right: 10px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+
+ 

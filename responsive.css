@@ -1,0 +1,417 @@
+@media  only screen  and (max-width:1042px){
+   .vaccinationdrive .image-button .row img {
+       
+      margin-left: auto;
+  }
+  .vaccinationdrive .image-button .row .btn{
+   margin-left: 330px;
+   margin-top: 15px;
+  }
+  .our-partner-new .partner-card {
+   max-height: 70px;
+    min-height: 70px;
+  }
+}
+@media  only screen  and (max-width:992px){
+   .midCenterCol .noMobile .mainMenu{
+      height: 50vh;
+      position: fixed;
+      top: 0;
+      right: 0;
+      left: 30;
+      z-index: 10;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background: #045d5d;
+      transition: top 1s ease ;
+      display: none;
+   }
+   .midCenterCol .openMenu{
+      display: block;
+   }
+   .midCenterCol  .menunavigation  ul .closeMenu{
+      display: block;
+      position: absolute;
+      top:20px;
+      right: 20px;
+
+   }
+   
+   
+   
+   .our-partner-new .partner-card {
+      max-height: 50px;
+      min-height: 50px;
+      margin-top: 15px;
+  }
+  .our-partner-new .partner-logo-holder .ourPtrBtn {
+   margin-top: 40px;
+    
+}
+.ourPtrBtn a :first-child {
+    
+   margin-bottom: 10px;
+}
+.vaccination_stats .vaccinations_today h3, .vaccination_stats .vaccinations_today p{
+   margin-left: 80px;
+}
+
+}
+@media  only screen  and (max-width:985px){
+   .midCenterCol  .navbar  .noMobile  {
+      display: none;
+  }
+  .precautionDoseBanner1 .banner-image-wrap img{
+       
+   height: 600px;
+}
+.precautionDoseBanner1 .banner-counter-content .milestone200{
+   padding: 10px 20px;
+}
+}
+@media  only screen and (max-width:798px){
+   .headermatSelect .labelClass {
+      display: none;
+   }
+   .mainHeader ul {
+      display: none;
+   }
+}
+
+
+
+@media  only screen  and (max-width:767px){
+     .flex-column{
+       padding: 0;
+       align-items: left;
+    }
+    .flex-column .img{
+       
+       width: 130px;
+       height: 50px;
+       margin-left: 0;
+    }
+    /* .flex-column nav{
+       flex-direction: column;
+       width: 100%;
+       height: 100vh;
+       justify-content: center;
+       display: block;
+
+    } */
+    .flex-column button{
+      padding: 5px 15px;
+      margin-right: 0;
+      margin-left: 0;
+      margin-bottom: 10px;
+    }
+    .flex-column .my-2{
+      margin-left: 60px;
+    }
+    .flex-column .my-2 a{
+      padding-left: 10px;
+    }
+     
+.navbar .navbar-brand{
+   margin-left: 210px;
+}
+.navbar{
+padding: 0;
+}
+.navbar .navbar-na{
+   padding: 0;
+   margin: 0;
+}
+.navbar .navbar-na .nav-link{
+   padding: 0;
+}
+.navbar .navbar-na li .nav-link{
+   margin-left: 90px;
+}
+.vaccinationSteps .card-holder .step-card .step-footer {
+   margin-bottom: 40px;
+}
+
+.vaccination_stats .vaccinations_today h3, .vaccination_stats .vaccinations_today p {
+
+   margin-left: 350px;
+}
+.freePrecautionEvent a.book_slot_btn {
+   margin-left: 150px;
+}
+.freePrecautionEvent p {
+   margin-left: 70px;
+}
+.vaccinationSteps  .card-holder  .step-card{
+   width: 50%;
+   margin-left: 135px;
+}
+
+.vaccinationDateCorrection a.book_slot_btn {
+   margin-left: 150px;
+}
+.corbevax_vaccine a.book_slot_btn{
+   margin-left: 150px;
+}
+.vaccinationDateCorrection .img-fluid {
+   max-width: 75%;
+   height: auto;
+   margin-left: 80px;
+}
+.abha a{
+   margin-bottom: 10px;
+}
+.vaccinationdrive .image-button .row img{
+   height: 300px;
+   margin-top: 50px;
+   margin-left: 100px;
+}
+.vaccinationdrive .image-button .row .btn{
+   margin-left: 100px;
+   font-size: medium;
+}
+.our-partner-new .partner-side-img {
+   max-height: 300px;
+   margin-left: 100px;
+}
+.our-partner-new .partner-card {
+   max-height: 50px;
+   min-height: 50px;
+   margin-top: 15px;
+  
+}
+.ourPtrBtn a :first-child {
+   margin-bottom: 10px;
+   margin-right: 80px;
+}
+.ourPtrBtn a :first-child {
+   
+   margin-bottom: 10px;
+}
+/* .footerContainer .bottomFooter .bottomFooterLinks1{
+   margin-top: 0;
+   right: 40;
+   margin-left: 50px;
+} */
+.footerContainer .bottomFooter p{
+   text-align: center;
+}
+.footerContainer .bottomFooter .bottomFooterCol a{
+   margin-left: 150px;
+}
+}
+@media  only screen and (max-width:448px){
+   .our-partner-new .partner-side-img {
+      max-height: 300px;
+      margin-left: 50px;
+  }
+  .our-partner-new .row .pl-3{
+   padding:0;
+  }
+  .our-partner-new .row .va{
+   padding: 0;
+  }
+  .our-partner-new .row{
+   margin-right: 0;
+  }
+  .our-partner-new .partner-card {
+    
+   margin-right: 90px;
+}
+.footerContainer .bottomFooter .bottomFooterCol a {
+   margin-left: 70px;
+}
+.vaccinationSteps  .card-holder  .step-card{
+   width: 100%;
+   margin-left: 0px;
+}
+}
+ 
+/* for mobile */
+
+@media  only screen and (max-width:412px){
+   .govindia, .govindia a{
+      font-size: small;
+   }
+   .precautionDoseBanner1 .banner-counter-content {
+      margin-left: auto;
+      margin-top: auto;
+  }
+   .flex-column{
+     padding: 0;
+     align-items: left;
+  }
+  .flex-column .img{
+     
+     width: 130px;
+     height: 50px;
+     margin-left: 0;
+  }
+  /* .flex-column nav{
+     flex-direction: column;
+     width: 100%;
+     height: 100vh;
+     justify-content: center;
+     display: block;
+
+  } */
+  .flex-column button{
+    padding: 5px 15px;
+    margin-right: 0;
+    margin-left: 20px;
+  }
+  .flex-column .my-2{
+    margin-left: 40px;
+  }
+  .flex-column .my-2 a{
+    padding-left: 10px;
+  }
+   
+  .vaccinationSteps  .card-holder  .step-card{
+   width: 100%;
+   margin-left: 0;
+}
+.navbar{
+padding: 0;
+}
+.navbar .navbar-brand{
+margin: 0;
+}
+.navbar .navbar-na{
+ padding: 0;
+ margin: 0;
+}
+.navbar .navbar-na .nav-link{
+ padding: 0;
+}
+.navbar .navbar-na li .nav-link{
+ margin-left: 0px;
+ margin-right: 0;
+}
+.precautionDoseBanner1 .banner-image-wrap img {
+   margin: 20px auto 0 10px;
+}
+.precautionDoseBanner1 .banner-image-wrap img {
+   height: 350px;
+   margin-bottom: 10px;
+}
+.vaccination_stats .vaccinations_today h3, .vaccination_stats .vaccinations_today p {
+
+ margin-left: 350px;
+}
+.freePrecautionEvent a.book_slot_btn {
+ margin-left: 80px;
+}
+.freePrecautionEvent p {
+ margin-left: 70px;
+}
+
+.vaccinationDateCorrection a.book_slot_btn {
+ margin-left: 80px;
+}
+.corbevax_vaccine a.book_slot_btn{
+ margin-left: 80px;
+}
+.vaccinationDateCorrection .img-fluid {
+ max-width: 70%;
+ height: auto;
+ margin-left: 80px;
+}
+.abha a{
+ margin-bottom: 10px;
+}
+.vaccinationdrive .image-button .vaccinetext {
+   margin-left: 150px;
+}
+.vaccinationdrive .image-button .row img{
+ height: 300px;
+ margin-top: 50px;
+ margin-left: 80px;
+}
+.vaccinationdrive .image-button .row .btn{
+ margin-left: 80px;
+ font-size: medium;
+}
+.our-partner-new .partner-side-img {
+ max-height: 300px;
+ margin-left: auto;
+}
+.our-partner-new .partner-logo-holder .row{
+ margin-right: 90px;
+}
+.our-partner-new .partner-logo-holder {
+   margin-left: 80;
+}
+.our-partner-new .partner-logo-holder {
+   margin-left: 100px;
+}
+.ourPtrBtn a :first-child {
+   margin-bottom: 10px;
+   margin-right: 0;
+}
+.our-partner-new .partner-card{
+   margin-bottom: 30px;
+}
+.helplineContacts h4{
+   font-size: 2.5vmin;
+}
+.ourPtrBtn a :first-child {
+ 
+ margin-bottom: 10px;
+}
+/* .footerContainer .bottomFooter .bottomFooterLinks1{
+ margin-top: 0;
+ right: 40;
+ margin-left: 50px;
+} */
+.footerContainer .bottomFooter p{
+ text-align: center;
+}
+.footerContainer .bottomFooter .bottomFooterCol a{
+ margin-left: 60px;
+}
+}
+@media  only screen and (max-width:412px){
+   .our-partner-new .partner-logo-holder {
+      margin-left: 80px;
+  }
+  .mat-form-field-infix {
+   display: block;
+   position: relative;
+   flex: auto;
+   min-width: 0;
+   width: 0;
+}
+}
+@media  only screen and (max-width:362px){
+   .govindia, .govindia a {
+      font-size:3.2vmin;
+  }
+  .vaccinationdrive .image-button .row img {
+   height: 300px;
+   margin-top: 50px;
+   margin-left: 50px;
+}
+.vaccinationdrive .image-button .row .btn {
+   margin-left: 80px;
+   font-size: small;
+}
+.our-partner-new .partner-logo-holder {
+   margin-left: 40px;
+}
+.vaccinationdrive .image-button .row img {
+   height: 300px;
+   margin-top: 50px;
+   margin-left: 20px;
+}
+.vaccinationdrive .image-button .row .btn {
+   margin-left: 20px;
+   font-size: small;
+}
+.our-partner-new .partner-logo-holder {
+   margin-left: 10px;
+}
+
+
+}
